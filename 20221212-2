@@ -1,0 +1,21 @@
+{
+    "parameter":{
+    "color":"#000000",
+    "url":"",
+    "month":"",
+    "name":"孫美娟",
+    "range":"50",
+    "date":"",
+    "week":"",
+    "radio":"單選2",
+    "email":"",
+    "password":"",
+    "checkbox":"多選1",
+    "search":"",
+    "number":""},
+
+    "contentLength":227,
+    "queryString":"",
+    "postData":{"contents":"name=%E5%AD%AB%E7%BE%8E%E5%A8%9F&url=&email=&password=&date=&month=&week=&number=&color=%23000000&search=&range=50&radio=%E5%96%AE%E9%81%B82&checkbox=%E5%A4%9A%E9%81%B81&checkbox=%E5%A4%9A%E9%81%B82&checkbox=%E5%A4%9A%E9%81%B83","length":227,"name":"postData","type":"application/x-www-form-urlencoded"},"contextPath":"",
+    "parameters":{
+    "number":[""],"search":[""],"password":[""],"radio":["單選2"],"checkbox":["多選1","多選2","多選3"],"week":[""],"month":[""],"email":[""],"date":[""],"range":["50"],"url":[""],"color":["#000000"],"name":["孫美娟"]}}
